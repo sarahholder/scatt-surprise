@@ -4,7 +4,8 @@ package-lock.json
 dist/
 .firebase/
 src/helpers/apiKeys.json
-
+package-lock.json
+ 
 # dependencies
 /node_modules
 /.pnp
